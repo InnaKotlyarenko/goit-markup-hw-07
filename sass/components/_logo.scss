@@ -1,0 +1,15 @@
+.logo {
+    font-family: Raleway;
+
+    @include font (700, 26px, 1.19, 0.03em);
+    color: #000000;
+    margin-right: 93px;
+}
+
+.logo__part {
+    color: #2196F3;
+}
+
+.logo--color {
+    color: #FFFFFF;
+}
